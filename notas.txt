@@ -1,0 +1,5 @@
+Ignorar "bayesiana_exp_00.Rmd".
+
+1- Correr optimizaciones bayesianas para cada variación.
+2- Con hiperparámetros obtenidos, correr archivos "final_exp_..." respectivamente.
+3- "./resultados/res_finales.Rmd" procesa los resultados.
